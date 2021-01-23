@@ -1,0 +1,11 @@
+C:\C#Temelleri\CampIntro\Generics\bin\Debug\netcoreapp2.1\Generics.deps.json
+C:\C#Temelleri\CampIntro\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.json
+C:\C#Temelleri\CampIntro\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.dev.json
+C:\C#Temelleri\CampIntro\Generics\bin\Debug\netcoreapp2.1\Generics.dll
+C:\C#Temelleri\CampIntro\Generics\bin\Debug\netcoreapp2.1\Generics.pdb
+C:\C#Temelleri\CampIntro\Generics\obj\Debug\netcoreapp2.1\Generics.csproj.CoreCompileInputs.cache
+C:\C#Temelleri\CampIntro\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfoInputs.cache
+C:\C#Temelleri\CampIntro\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfo.cs
+C:\C#Temelleri\CampIntro\Generics\obj\Debug\netcoreapp2.1\Generics.dll
+C:\C#Temelleri\CampIntro\Generics\obj\Debug\netcoreapp2.1\Generics.pdb
+C:\C#Temelleri\CampIntro\Generics\obj\Debug\netcoreapp2.1\Generics.csprojAssemblyReference.cache
